@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "whatsapp-web.js": "^1.23.0"
-  }
+  "license": "ISC"
 }
